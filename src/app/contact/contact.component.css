@@ -1,0 +1,63 @@
+.back-img{
+    height: 400px;
+    position: relative;
+}
+
+.layer {
+    background-color: rgba(57, 88, 128, 0.57);
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+}
+
+.box1{
+    height: 90%;
+    width: 100%;
+    color: #fff;
+    display: block;
+    margin: 5% 10px;
+    float: right;
+    text-align: center;
+    background: rgba(156, 39, 176, 0.45);
+    padding-top: 10px;
+}
+
+.box2{
+    height: 90%;
+    width: 100%;
+    color: #fff;
+    display: block;
+    margin: 5% 10px;
+    float: left;
+    text-align: center;
+    background: rgba(156, 39, 176, 0.45)
+}
+.height100{
+    height: 100%;
+}
+
+.add{
+    padding-top: 75px;
+    font-size: 200%;
+    font-weight: 600;
+}
+
+.addf{
+    font-size: 150%;
+    padding-top: 50px;
+    padding: 10px;
+}
+
+.addf2{
+    font-size: 150%;
+    padding-top: 20px;
+    padding: 10px;
+}
+
+.phone{
+    padding-top: 25px;
+    font-size: 200%;
+    font-weight: 600;
+}
